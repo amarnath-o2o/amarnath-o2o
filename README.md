@@ -1,6 +1,8 @@
 - 👋 Hlo, I'm amarnath.p
 - 👀 I’m interested mainly in html, css, js, php, angular ...
 - 🌱 I’m currently learning ...
+- I loves to create website's, web templates and android application
+- I'm a youtuber, blogger, web developer and etc.
 
 
 <!---
